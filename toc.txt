@@ -1,0 +1,66 @@
+IT Project Management
+    Introduction
+        - Objectives
+            - To learn how Software is created
+                - with an emphasis on modern software development life cycle
+            - To examine the Programming Community in the Philippines
+        - For this class, we will be focusing on two things:
+            - PM in Software Development
+            - IT Communities
+        - We will be doing a bottom-up approach.
+            - Which means we will be doing practical work
+            - Then, we will discuss what we've learned and show how it affected the high-level overview
+
+    PM in Software Development
+        - Software Development Life Cycle (Software Methodology)
+            - Prototyping
+            - Incremental and Iterative
+            - Agile (We are going to focus on this topic, but feel free to use other methodology except the next one)
+                - Scrum
+            - DO NOT TEACH WATERFALL AS A LEGITIMATE METHODOLOGY
+                - Problem with Waterfall
+                - Legitimate use of Waterfall and the implications
+        - Version Control (We are going to focus on this topic)
+            - Server Repository
+                - Subversion
+            - Distributed Repository
+                - Git
+                - Mercurial (hg)
+        - Workflow
+            - Github Flow
+            - Ticket System
+            - Roles
+                - Project Owner
+                - Project Manager
+                - Developer
+                - Tester
+        - Software Development with remote developers
+            - Prominiently used in open source
+            - Collaboration
+            - Pull Requests
+        - Time management in SDLC
+            - Bill Gate's quote
+            - Estimates
+            - Version names
+                - Alpha, Beta, Release Candidate, 1.0
+            - Gantt Chart
+            - Pre-requisite chart
+
+    IT communities (User Groups)
+        - Meetups
+        - User Group conferences
+        - DevCon
+        - Python.Ph
+        - Start-ups
+            - Silicon Valley
+            - Elevator Pitch
+            - Hackathon
+
+    2 Requirements
+        - Midterm
+            Participate in an online open source project OR 
+            Host a user group meetup (invite speaker)
+            - Don't forget to document
+        - Finals
+            Practical application of Version Control
+                Make a manual, handbook, story, or programming code.
