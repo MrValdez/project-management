@@ -51,10 +51,18 @@ IT Project Management
         - User Group conferences
         - DevCon
         - Python.Ph
+
     Start-ups
-        - Silicon Valley
+        - Silicon Valley / The Simpsons s27e10 The Girl Code
+            - exaggerated
+            - startup culture
+            - project management
         - Elevator Pitch
         - Hackathon
+        - Minimum Viable Product (MVP)
+        - Lean and fast
+        - Investors
+            - Angel investors
 
     2 Requirements
         - Midterm
