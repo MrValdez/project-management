@@ -63,4 +63,4 @@ IT Project Management
             - Don't forget to document
         - Finals
             Practical application of Version Control
-                Make a manual, handbook, story, or programming code.
+                Make a [to add later]
