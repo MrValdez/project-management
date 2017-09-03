@@ -67,3 +67,30 @@ IT Project Management
         - Finals
             Practical application of Version Control
                 Make a [to add later]
+
+    Resources
+        Silicon Valley / The Simpsons s27e10 The Girl Code
+            - exaggerated
+            - startup culture
+            - project management
+
+    Software Methodologies
+        - Rapid Application Development
+        - Spiral
+        - Iterative
+        - Agile
+
+    User Groups
+        Google Developer's Group
+        DevCon
+        Junior Philippines Computer Society
+            JPCS (Isabella)
+        Hack the North (Tuguegarrao)
+        Davao Gnu
+        Philnits
+        Python.ph   
+            https://pycon-2016.python.ph
+            Community Meetup        
+            meetup.com
+                Python Philippines    
+    
