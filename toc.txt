@@ -51,10 +51,10 @@ IT Project Management
         - User Group conferences
         - DevCon
         - Python.Ph
-        - Start-ups
-            - Silicon Valley
-            - Elevator Pitch
-            - Hackathon
+    Start-ups
+        - Silicon Valley
+        - Elevator Pitch
+        - Hackathon
 
     2 Requirements
         - Midterm
