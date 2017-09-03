@@ -61,6 +61,9 @@ IT Project Management
             Participate in an online open source project OR 
             Host a user group meetup (invite speaker)
             - Don't forget to document
+            - No certificate will be given
+            - Feedback from the audience
+                - Questionaires to be collaborated
         - Finals
             Practical application of Version Control
                 Make a [to add later]
