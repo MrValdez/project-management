@@ -1,0 +1,9 @@
+    Make an essay with these three points.
+    Subject is "Mythical Man Month"
+
+    1. Summarize the Mythical Man-Month
+    2. Explain this quote: “Nine people can’t make a baby in a month.” – Fred Brooks
+    3. Explain Brooks's law: "adding human resources to a late software project makes it later"
+
+
+    2:10 - 3:20
