@@ -74,9 +74,17 @@ IT Project Management
             - No certificate will be given
             - Feedback from the audience
                 - Questionaires to be collaborated
+            - Topics: IT-related or IT Community-related
+            - October 7.
+            - 3 speakers for emergencies
         - Finals
-            Practical application of Version Control
-                Make a [to add later]
+            Practical application of Version Control System 
+                - Make either:
+                    1. Class plan
+                        - chapters: objectives, syllabus, exams, quizzes, references
+                    2. Documentation for Capstone Project
+                        - chapters: introduce problem, introduce solution, what are needed to finish solution, plan from inception to completion, elevator pitch
+                - at least 1 commit before working on a different chapter
 
     Resources
         Silicon Valley / The Simpsons s27e10 The Girl Code
@@ -100,13 +108,19 @@ IT Project Management
             “Measuring programming progress by lines of code is like measuring aircraft building progress by weight.”  - Bill Gate
             “Nine people can’t make a baby in a month.” – Fred Brooks
         - Terms:
-            - Release
+            - Release Cycle
                 - Alpha, Beta, Release Candidate
+                - Live, Staging
             - Patches
+            - Testing Phase
+                - A/B Testing
             - Prototyping
             - Documentation
             - Gantt Chart
-            - Pre-requisite chart
+            - Pre-requisite list
+            - Live coding
+            - Edge Cases
+            - Support
         - Rapid Application Development
         - Spiral
         - Iterative
@@ -129,6 +143,9 @@ IT Project Management
         - TDD
 
     Project Postmortems
+        - Computer Says No
+        - How to lose $172,222 a second for 45 minutes
+
 
     User Groups
         Google Developer's Group
