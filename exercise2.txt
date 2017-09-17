@@ -7,3 +7,31 @@
 
 
     2:10 - 3:20
+    
+    
+- What is the "The Mythical Man-Month" in three sentences? 
+- Explain "The Mythical Man-Month" in terms of cooking 
+- Explain "The Mythical Man-Month" in terms of writing essays. 
+- How do you estimate a task? 
+- Is there a difference between estimating programming tasks and real-life tasks? How? 
+- Why is estimating hard? 
+- Is it possible to divide a large, complicated task into smaller tasks?
+- What do you think is the reason that software projects are late?
+- Can you become better in estimating how long a task can take? How or why not?
+
+- Is adding more programmers a bad idea?
+- "Good cooking takes time. If you are made to wait, it is to server you better, and to please you". explain 
+- Is “Nine people can’t make a baby in a month” apllicable only at the start of the project? 
+- What do you mean by "sequential constraints"? 
+- What is n(n-1)/2 and how does it relate to "The Mythical Man-Month"? 
+- "No Silver Bullet" 
+- Is it possible to connect productivity with “Nine people can’t make a baby in a month”? Why or why not? 
+
+
+(
+discuss The Mythical Man Month with the essay writing
+    - estimates
+    - division of tasks
+    - self-evaluation
+    - doin the same task again
+)
