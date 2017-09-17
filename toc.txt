@@ -18,6 +18,8 @@ IT Project Management
             - Agile (We are going to focus on this topic, but feel free to use other methodology except the next one)
                 - Scrum
             - DO NOT TEACH WATERFALL AS A LEGITIMATE METHODOLOGY
+                - https://pragtob.wordpress.com/2012/03/02/why-waterfall-was-a-big-misunderstanding-from-the-beginning-reading-the-original-paper/
+                - https://notafactoryanymore.com/2015/02/18/waterfall-or-agile-reflections-on-winston-royces-original-paper/
                 - Problem with Waterfall
                 - Legitimate use of Waterfall and the implications
         - Version Control (We are going to focus on this topic)
@@ -82,11 +84,51 @@ IT Project Management
             - startup culture
             - project management
 
+        Steve Jobs introduces first iPod
+            - https://www.youtube.com/watch?v=kN0SVBCJqLs
+            - https://www.forbes.com/sites/carminegallo/2012/10/04/11-presentation-lessons-you-can-still-learn-from-steve-jobs
+    
     Software Methodologies
+        - The Mythical Man-Month
+            - https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/MythicalManMonth.pdf
+            - Brooks's law
+                -  "adding human resources to a late software project makes it later"
+        - Flow
+            - Mihaly Csikszentmihalyi
+            - https://www.ted.com/talks/mihaly_csikszentmihalyi_on_flow
+        - Quotes:
+            “Measuring programming progress by lines of code is like measuring aircraft building progress by weight.”  - Bill Gate
+            “Nine people can’t make a baby in a month.” – Fred Brooks
+        - Terms:
+            - Release
+                - Alpha, Beta, Release Candidate
+            - Patches
+            - Prototyping
+            - Documentation
+            - Gantt Chart
+            - Pre-requisite chart
         - Rapid Application Development
         - Spiral
         - Iterative
         - Agile
+            - Agile Manifesto
+                - https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/
+            - Scrum
+                https://www.youtube.com/watch?v=9TycLR0TqFA
+                - Terms:
+                    - Project Owner
+                    - Task
+                    - Backlog
+                    - Estimates
+                    - Sprints
+                    - Scrum
+                    - User Stories
+                    - Burndown Chart
+        - SOLID
+            - https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)
+        - TDD
+
+    Project Postmortems
 
     User Groups
         Google Developer's Group
