@@ -1,0 +1,36 @@
+Midterms
+
+Choose from any of the two exam:
+    1. Participate in an online open source project
+        - Individual exam
+        - The open source project should have at least 3 commits in their repository
+        - You may upload your own open source project provided that you also supply:
+            - Open Source License
+            - Can be found online
+            - Have at least one issue or merge request
+        - If you are contributing to an already existing open source project, you are expected to do any of the following:
+            - Documentation (Small or Major)
+            - Bug reporting
+            - Bug fixing
+            - Issue reporting
+        - Prepare a report that answers the following:
+            1. What did you learn
+            2. What problems did you encounter
+            3. How did you solve the problems (or what are the reasons the problems weren't solved)
+        
+    2.Host a user group meetup
+        - Maximum organizers in each team is 2
+        - Speaker Topics: 
+            - Any IT topics (programming, project management, etc)
+            - IT Community
+            - Startups
+            - Education
+        - Don't forget to document
+        - No certificate will be given.
+        - Audience survey to be given at the last hour:
+            1. How would you rate the speakers (list down each speaker)? (Decent, Excellent, Outstanding)
+            2. How would you rate the entire meetup? (Decent, Excellent, Outstanding)
+            3. (secret question)
+            4. Any criticism?
+            5. Would you like to have more meetups? Yes/No
+        - There are 3 speakers I can supply if you can't find any speakers. But you will be responsible in communicating with them.
