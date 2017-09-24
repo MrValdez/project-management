@@ -19,7 +19,7 @@ Choose from any of the two exam:
             3. How did you solve the problems (or what are the reasons the problems weren't solved)
         
     2.Host a user group meetup
-        - Maximum organizers in each team is 2
+        - Maximum organizers in each team is 3
         - Speaker Topics: 
             - Any IT topics (programming, project management, etc)
             - IT Community
