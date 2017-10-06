@@ -30,7 +30,9 @@ Choose from any of the two exam:
         - Audience survey to be given at the last hour:
             1. How would you rate the speakers (list down each speaker)? (Decent, Excellent, Outstanding)
             2. How would you rate the entire meetup? (Decent, Excellent, Outstanding)
-            3. (secret question)
+            3. What did you learn from the speakers?
             4. Any criticism?
             5. Would you like to have more meetups? Yes/No
+        - Survey can be given pen-and-paper or online form. Group discretion
         - There are 3 speakers I can supply if you can't find any speakers. But you will be responsible in communicating with them.
+        
