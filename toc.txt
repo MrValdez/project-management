@@ -95,6 +95,8 @@ IT Project Management
         Steve Jobs introduces first iPod
             - https://www.youtube.com/watch?v=kN0SVBCJqLs
             - https://www.forbes.com/sites/carminegallo/2012/10/04/11-presentation-lessons-you-can-still-learn-from-steve-jobs
+
+        https://www.websequencediagrams.com/
     
     Software Methodologies
         - The Mythical Man-Month
@@ -116,6 +118,7 @@ IT Project Management
                 - A/B Testing
             - Prototyping
             - Documentation
+            - Critical Path
             - Gantt Chart
             - Pre-requisite list
             - Live coding
@@ -142,10 +145,20 @@ IT Project Management
             - https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)
         - TDD
 
-    Project Postmortems
-        - Computer Says No
-        - How to lose $172,222 a second for 45 minutes
-
+    Project Postmortems / Retrospective
+        - http://www.developer.com/design/article.php/3637441
+        - https://pm.stackexchange.com/a/17660/29990
+        - https://blog.codinghorror.com/the-project-postmortem/
+        - https://www.gamasutra.com/features/postmortem/
+        - https://www.gamasutra.com/view/news/238773/10_seminal_game_postmortems_every_developer_should_read.php
+            
+            - The Moonpig Bug: How 3,000,000 Customers’ Details Were Exposed
+                https://www.youtube.com/watch?v=CgJudU_jlZ8
+            - How to lose $172,222 a second for 45 minutes
+                http://pythonsweetness.tumblr.com/post/64740079543/how-to-lose-172222-a-second-for-45-minutes
+            - "Computer Says No" 
+                https://leanpub.com/humansvscomputers
+            - The security mirage - Bruce Schneier
 
     User Groups
         Google Developer's Group
